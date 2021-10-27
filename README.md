@@ -16,3 +16,15 @@ _Módulo 1_
   - Xamp (Link)
   - Linux WSL (Link)
   - Docker (Link)
+
+_Módulo 2_
+
+- Introdução a Maratona!
+  - Motivação (Link)
+  - PHP? O que ele faz? (Link)
+  - Mercado de trabalho (Link)
+  - Junior/Pleno e Senior (Link)
+  - Introdução a programação (Link)
+  - Programação estruturada! (Link)
+  - Programação funcional (Link)
+  - Programação orientada a Objeto (Link)
