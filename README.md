@@ -19,9 +19,9 @@ Será divida em 7 módulos, workshops e entrevistas com profissionais de IT, par
 _Módulo 1_
 
 - **Ambiente de desenvolvimento**
-  - Xamp (Link)
-  - Linux WSL (Link)
-  - Docker (Link)
+  - [Xamp](https://github.com/bellaggio/zeroToSenior/blob/main/M%C3%B3dulo-1/Xamp.md)
+  - [Linux WSL](https://github.com/bellaggio/zeroToSenior/blob/main/M%C3%B3dulo-1/Linux.md)
+  - [Docker](https://github.com/bellaggio/zeroToSenior/blob/main/M%C3%B3dulo-1/Docker.md)
 
 _Módulo 2_
 
