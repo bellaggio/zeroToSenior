@@ -81,7 +81,7 @@ _Módulo 6_
 
 _Módulo 7_
 
-- Bonús.
+- Bônus.
   - Scrum (Link)
   - AWS (Link)
   - Filas - Gearman/RabbitMQ (Link)
