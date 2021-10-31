@@ -10,20 +10,18 @@ Terminei o parágrafo anterior com a palavra "Comunidade", mas porque? A Maraton
 
 Será divida em 7 módulos, workshops e entrevistas com profissionais de IT, para acompanhar a Maratona, segue a lista de canais.
 
-> Twitch - Live - https://www.twitch.tv/bellaggiotv
-> Youtube - https://www.youtube.com/channel/UCGPoozyG4XMkEoL1VBnnIIA
-> Discord - https://discord.gg/embjs2aAcj
+> **Twitch** - Live - https://www.twitch.tv/bellaggiotv > **Youtube** - https://www.youtube.com/channel/UCGPoozyG4XMkEoL1VBnnIIA > **Discord** - https://discord.gg/embjs2aAcj
 
 _Módulo 1_
 
-- Ambiente de desenvolvimento
+- **Ambiente de desenvolvimento**
   - Xamp (Link)
   - Linux WSL (Link)
   - Docker (Link)
 
 _Módulo 2_
 
-- Introdução a Maratona!
+- **Introdução a Maratona!**
   - Motivação (Link)
   - PHP? O que ele faz? (Link)
   - Mercado de trabalho (Link)
@@ -35,7 +33,7 @@ _Módulo 2_
 
 _Módulo 3_
 
-- Introdução a conceitos!
+- **Introdução a conceitos!**
   - PHP estruturas de controle (Link)
   - Clean code - básico (Link)
   - Orientação objeto - básico (Link)
@@ -45,7 +43,7 @@ _Módulo 3_
 
 _Módulo 4_
 
-- Avançando na complexidade.
+- **Avançando na complexidade!**
   - Orientação objecto - Intermediário (Link)
   - Trait - Interfaces - Classes Abstratas (Link)
   - Solid - "SO" (Link)
@@ -57,7 +55,7 @@ _Módulo 4_
 
 _Módulo 5_
 
-- Consolidando conhecimento.
+- **Consolidando conhecimento!**
   - Orientação objecto - Avançado (Link)
   - Estrutura de software - Empresa (Link)
   - Gerenciamento de projeto (Link)
@@ -69,7 +67,7 @@ _Módulo 5_
 
 _Módulo 6_
 
-- Final.
+- **Final!**
   - Orientação objecto - Review (Link)
   - Solid - Review (Link)
   - Clean code - Review (Link)
@@ -81,7 +79,7 @@ _Módulo 6_
 
 _Módulo 7_
 
-- Bônus.
+- **Bônus!**
   - Scrum (Link)
   - AWS (Link)
   - Filas - Gearman/RabbitMQ (Link)
