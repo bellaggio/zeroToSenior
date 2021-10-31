@@ -8,7 +8,11 @@ Terminei o parágrafo anterior com a palavra "Comunidade", mas porque? A Maraton
 
 # A Maratona.
 
-Será divida em 7 módulos, workshops e entrevistas com profissionais de IT.
+Será divida em 7 módulos, workshops e entrevistas com profissionais de IT, para acompanhar a Maratona, segue a lista de canais.
+
+> Twitch - Live - https://www.twitch.tv/bellaggiotv
+> Youtube - https://www.youtube.com/channel/UCGPoozyG4XMkEoL1VBnnIIA
+> Discord - https://discord.gg/embjs2aAcj
 
 _Módulo 1_
 
@@ -28,3 +32,64 @@ _Módulo 2_
   - Programação estruturada! (Link)
   - Programação funcional (Link)
   - Programação orientada a Objeto (Link)
+
+_Módulo 3_
+
+- Introdução a conceitos!
+  - PHP estruturas de controle (Link)
+  - Clean code - básico (Link)
+  - Orientação objeto - básico (Link)
+  - Solid - "S" (Link)
+  - Base de dados - básico (Link)
+  - Demo - (Link)
+
+_Módulo 4_
+
+- Avançando na complexidade.
+  - Orientação objecto - Intermediário (Link)
+  - Trait - Interfaces - Classes Abstratas (Link)
+  - Solid - "SO" (Link)
+  - Clean code - Complexidade ciclomática (Link)
+  - Unit test - básico (Link)
+  - Arquitetura - MVC (Link)
+  - Laravel - básico (Link)
+  - Padrões de projetos - Tipos (Link)
+
+_Módulo 5_
+
+- Consolidando conhecimento.
+  - Orientação objecto - Avançado (Link)
+  - Estrutura de software - Empresa (Link)
+  - Gerenciamento de projeto (Link)
+  - Responsábilidades (Link)
+  - Unit test - Intermediário (Link)
+  - Laravel - avançado (Link)
+  - Padrões de projetos - Aplicabiliade (Link)
+  - Demo - Projeto do Módulo 4 e 5 (Link)
+
+_Módulo 6_
+
+- Final.
+  - Orientação objecto - Review (Link)
+  - Solid - Review (Link)
+  - Clean code - Review (Link)
+  - Arquitetura - Hexagonal (Link)
+  - Unit test - Avançado/Review (Link)
+  - Slim - Micro-servicos (Link)
+  - PHP Swoole - Em busca da performance (Link)
+  - Projeto - Final (Link)
+
+_Módulo 7_
+
+- Bonús.
+  - Scrum (Link)
+  - AWS (Link)
+  - Filas - Gearman/RabbitMQ (Link)
+  - Elasticsearch (Link)
+  - Loggers (Link)
+  - NoSql - MongoDB (Link)
+  - Caches - Redis (Link)
+  - Smoke test - Postman/Newman (Link)
+  - Testes automáticos - Cucumber (Link)
+  - SonarQube - Verficando qualidade do código (Link)
+  - CI/CD - Aprovado/Produção (Link)
