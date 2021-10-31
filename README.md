@@ -10,11 +10,11 @@ Terminei o parágrafo anterior com a palavra "Comunidade", mas porque? A Maraton
 
 Será divida em 7 módulos, workshops e entrevistas com profissionais de IT, para acompanhar a Maratona, segue a lista de canais.
 
-> **Twitch** - Live - https://www.twitch.tv/bellaggiotv
+> [**Twitch**](https://www.twitch.tv/bellaggiotv)
 
-> **Youtube** - https://www.youtube.com/channel/UCGPoozyG4XMkEoL1VBnnIIA
+> [**Youtube**](https://www.youtube.com/channel/UCGPoozyG4XMkEoL1VBnnIIA)
 
-> **Discord** - https://discord.gg/embjs2aAcj
+> [**Discord**](https://discord.gg/embjs2aAcj)
 
 _Módulo 1_
 
